@@ -112,10 +112,10 @@
 * レスポンス例：
     ```json
     {
-        "comment": "コメント内容",
         "id": 3,
         "post_id": 1,
-        "user_id": 1
+        "user_id": 1,
+        "comment": "コメント内容"
     }
     ```
 
